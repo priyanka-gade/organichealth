@@ -1,5 +1,8 @@
 {
     "organichealth":[
-        {"id":1,"name":"Jaydeep","email":"jay@gmail.com","password":"jay@2405"}
+        {"id":1,"name":"Jaydeep","email":"jay@gmail.com","password":"jay@2405"},
+        {"id":2,"name":"Priyanka","email":"priya@gmail.com","password":"priy@1210"},
+        {"id":3,"name":"Omkar","email":"om2511@gmail.com","password":"om@0208"},
+        {"id":4,"name":"Kuldeep","email":"deep@gmail.com","password":"deep@2407"}
     ]
 }
