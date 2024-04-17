@@ -1,0 +1,129 @@
+*{
+    font-family: cursive;
+}
+li{
+    list-style-type: none;
+    text-decoration: none;
+    display: inline;
+    float: left;
+    margin-left: 23px;
+    /* padding: 10px; */
+    font-family: cursive;
+    font-size: x-large;
+    
+}
+.linav{
+    padding-top: 55px;
+    padding-left: 50px;
+}
+.btnnav{
+    padding-top: 55px;
+    float: right;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+.btnlogin{
+    color: white;
+    background-color: rgba(224, 49, 26, 0.956);
+    border-radius: 10px;
+}
+.txt{
+    text-decoration: none;
+    color: rgb(229, 21, 21);
+}
+.heading{
+    background-color: white;
+    display:grid;
+}
+.homediv{
+    margin: 40px;
+}
+.cd1{
+    float: left;
+    margin-left: 20px;
+}
+.cardrow{
+    background-color: rgb(247, 246, 246);
+    padding-left: 30px;
+    padding-top: 30px;
+    /* border: 1px solid red; */
+    padding-bottom: 25px;
+}
+.cd1:hover{
+    transform: scale(0.95,0.95);
+}
+.summerydiv{
+    background-color: rgb(247, 246, 246);
+    padding: 100px;
+    text-align: justify;
+    line-height: 10px;
+}
+.list{
+    display: block;
+}
+.col{
+    /* border: 1px solid red; */
+    float: left;
+}
+.outer{
+    /* border: 1px solid rgb(56, 13, 226); */
+    width: 1052px;
+    margin-left: 250px;
+}
+.galleryimgs{
+    padding: 5px;
+    border-radius: 15px;
+}
+.galleryimgs:hover{
+    transform: scale(0.95,0.95);
+}
+.title{
+    color: #76b82b;
+}
+.titlebtn{
+    float: right;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+.btn1{
+    float: none;
+    margin-left: 10px;
+}
+.loginf input {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 200px;
+    height: 25px;
+    padding-left: 20px;
+    /* margin-bottom: 30px; */
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 2px solid rgb(163, 195, 96);
+}
+
+.loginf input:hover {
+    border: 2px solid rgba(235, 10, 10, 0.89)
+}
+
+.loginf button {
+    width: 200px;
+    /* margin: 10px; */
+    background-color: rgb(163, 195, 96);
+    border: 2px solid rgb(163, 195, 96);
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.loginf button:hover {
+    background-color: rgba(235, 10, 10, 0.89);
+}
+.signup{
+  border: 2px solid rgb(163, 195, 96);
+  margin-left: 580px;
+  margin-right: 580px;
+  padding: 50px;
+}
+
